@@ -3,7 +3,7 @@ body {
     font-size: 18px;
     line-height: 34px;
     color: #777777;
-    background: url("../images/concrete_seamless.png");
+    background: url("../images/medicalcomputer.jpg");
 }
 
 * {
@@ -13,4 +13,22 @@ body {
 .container {
     max-width: 960px;
     margin: auto;
+}
+
+img {
+    border-radius: 50%;
+    padding-top: 10px;
+}
+
+p {
+    padding: 5px;
+    color: gray;
+}
+
+#AboutMe {
+    background: lightgray;
+}
+
+#Description {
+    padding: 20px;
 }
